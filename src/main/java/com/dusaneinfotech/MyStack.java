@@ -23,5 +23,6 @@ public class MyStack {
     }
     public int getCount(){
         return mystack.size();
+        
     }
 }
